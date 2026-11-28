@@ -13,6 +13,7 @@ Download page for my free macOS plugins (VST3, Audio Unit, CLAP). One stage on t
 | Repetitor | MIDI generator | [Repetitor](https://github.com/danikoenig/Repetitor) |
 | Knack | Clipper | [Knack](https://github.com/danikoenig/Knack) |
 | Gain | Gain staging utility | [Gain](https://github.com/danikoenig/Gain) |
+| Dub Delay | Reggae dub delay | [DubDelay](https://github.com/danikoenig/DubDelay) |
 | Remember | Always-on recorder | [Remember](https://github.com/danikoenig/Remember) |
 
 ## Setup (GitHub Pages)
